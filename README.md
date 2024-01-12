@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecuriity Projects:</h2>
 
-
+- <b>Siem Tools</b>
+  - <a href="https://awslabs.notion.site/Analyze-first-packet-400a916c98ff4233b2e01bab16d56656"> Security Audits of Network Infrastructure </a>
 - <b>PowerShell</b>
   - [Decrypt an Encrypted Message](https://awslabs.notion.site/Decrypt-an-encrypted-message-021c70f3946b45858bbf87218748aa50?pvs=4)
 - <b>SQL</b>
