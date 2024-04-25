@@ -20,3 +20,5 @@
 - <a href=https://github.com/rachata072/SpaceX-Data-Science.git>SpaceX Launch Cost Optimization with Predictive Analytics</a>
 
 - <a href=https://github.com/rachata072/Retail-Price-Optimization.git> Retail Price Optimization </a>
+
+- <a href=https://github.com/rachata072/Development-of-a-Sign-Language-Dictionary-App-Using-Supervised-Learning.git> Development of a Sign Language Dictionary App Using Supervised Learning </a>
