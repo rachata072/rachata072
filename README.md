@@ -22,3 +22,5 @@
 - <a href=https://github.com/rachata072/Retail-Price-Optimization.git> Retail Price Optimization </a>
 
 - <a href=https://github.com/rachata072/Development-of-a-Sign-Language-Dictionary-App-Using-Supervised-Learning.git> Development of a Sign Language Dictionary App Using Decision Tree Classifier </a>
+
+- <a href=https://github.com/rachata072/HR-Attrition-EDA-and-Prediction.git> HR Attrition analysis and predict </a>
