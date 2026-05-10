@@ -213,45 +213,6 @@ Formatted for MSP and enterprise use with:
 
 ---
 
-# Skills
-
-## Cloud & Identity
-- Microsoft 365
-- AWS
-- Azure AD
-- Intune
-- Entra ID
-
-## Systems
-- Active Directory
-- Windows Server 2022
-- GPO
-- DNS / DHCP
-- Ubuntu Linux
-
-## Networking
-- CCNA
-- Wireshark
-- GNS3
-- Packet Tracer
-- TCP/IP
-- VLANs
-
-## Security
-- ISC² CC
-- Google Cybersecurity
-- Defender for Business
-- MFA / Conditional Access
-
-## ITSM & Data
-- Freshservice
-- Python
-- PowerShell
-- Git / GitHub
-- IBM Data Science
-
----
-
 # Contact
 
 ## Email
