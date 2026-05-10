@@ -202,7 +202,7 @@ treyrct858@gmail.com
 
 ---
 
-© 2026 Your Name  
+© 2026 Rachata Wichakkhapan 
 IT Support · Network Engineer · SOC Analyst  
 Hosted on GitHub Pages
 
