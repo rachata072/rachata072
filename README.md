@@ -1,4 +1,4 @@
-# Your Name
+# Rachata (TREY) Wichakkhapan
 
 *IT Support · Network Engineer · SOC Analyst*
 
@@ -32,19 +32,6 @@ Focused on:
 - Cloud security operations
 
 Available for roles in Canada and remote positions globally.
-
----
-
-# Quick Stats
-
-| Category | Details |
-|---|---|
-| Certifications | 5 Earned |
-| Portfolio Projects | 5 on GitHub |
-| Lab Environment | GNS3 + Packet Tracer |
-| Cloud | AWS + Microsoft 365 |
-| Location | Vancouver, BC |
-| Work Preference | Canada · Remote global |
 
 ---
 
@@ -186,46 +173,32 @@ Formatted for MSP and enterprise use with:
 ## CCNA
 **Issuer:** Cisco — 200-301  
 ✅ Earned
-
 ---
-
 ## AWS Cloud Practitioner
 **Issuer:** Amazon Web Services  
 ✅ Earned
-
 ---
-
 ## CC — Certified in Cybersecurity
 **Issuer:** ISC²  
 ✅ Earned
-
 ---
-
 ## Google Cybersecurity Certificate
 **Issuer:** Google / Coursera  
 ✅ Earned
-
 ---
-
 ## Data Science Professional
 **Issuer:** IBM / Coursera  
 ✅ Earned
-
 ---
 
 # Contact
 
 ## Email
-you@email.com
+treyrct858@gmail.com
 
 ## LinkedIn
-https://linkedin.com/in/yourprofile
+[https://linkedin.com/in/treywcp](https://www.linkedin.com/in/treywcp/)
 
-## GitHub
-https://github.com/yourusername
-
-## Resume
-/resume.pdf
 
 ---
 
