@@ -42,7 +42,7 @@ Available for roles in Canada and remote positions globally.
 ## PROJECT 01 — M365 Developer Tenant — Full Admin Configuration
 
 **GitHub:**  
-https://github.com/yourusername/m365-admin-lab
+[https://github.com/rachata072/m365-admin-lab](https://github.com/rachata072/m365-admin-lab.git)
 
 Provisioned a Microsoft 365 Developer Tenant end-to-end:
 - 10 users
@@ -51,7 +51,7 @@ Provisioned a Microsoft 365 Developer Tenant end-to-end:
 - Intune device compliance policies
 - Defender for Business
 
-Demonstrates real cloud admin capability across the full M365 stack — the most-asked-about environment in helpdesk and sysadmin interviews.
+Demonstrates real cloud admin capability across the full M365 stack.
 
 ### Technologies
 - Microsoft 365
@@ -66,7 +66,7 @@ Demonstrates real cloud admin capability across the full M365 stack — the most
 ## PROJECT 02 — Active Directory Home Lab — Windows Server 2022 + GPO
 
 **GitHub:**  
-https://github.com/yourusername/active-directory-home-lab
+https://github.com/rachata072/active-directory-home-lab
 
 Built a full Active Directory environment on local VMs:
 - Windows Server 2022 domain controller
@@ -94,7 +94,7 @@ Includes:
 ## PROJECT 03 — Freshservice ITSM — 20-Ticket Helpdesk Simulation
 
 **GitHub:**  
-https://github.com/yourusername/freshservice-itsm-lab
+https://github.com/rachata072/freshservice-itsm-lab
 
 Configured Freshservice from scratch:
 - Service catalog
@@ -108,8 +108,6 @@ Created and resolved 20 realistic helpdesk tickets including:
 - New hire onboarding
 - Hardware replacements
 
-Demonstrates PSA familiarity that MSP roles expect on day one.
-
 ### Technologies
 - Freshservice
 - ITSM / PSA
@@ -122,7 +120,7 @@ Demonstrates PSA familiarity that MSP roles expect on day one.
 ## PROJECT 04 — Wireshark — Protocol Capture & Network Analysis
 
 **GitHub:**  
-https://github.com/yourusername/wireshark-network-analysis
+https://github.com/rachata072/wireshark-network-analysis
 
 Captured and annotated five network scenarios:
 - DNS query/response
@@ -146,7 +144,7 @@ Each capture ships as a `.pcap` file with written analysis explaining protocol b
 ## PROJECT 05 — IT Runbook — 5 Standard Operating Procedures
 
 **GitHub:**  
-https://github.com/yourusername/it-runbook-sops
+https://github.com/rachata072/it-runbook-sops
 
 A 30-page professional runbook with five fully documented SOPs:
 - New employee onboarding
