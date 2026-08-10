@@ -4,7 +4,7 @@
 
 ---
 
-## Portfolio — 2026 · Vancouver, BC
+## Portfolio · Vancouver, BC
 
 ### Roles
 - IT Support Specialist
@@ -21,7 +21,7 @@ Canada relocation · Remote global
 
 ## Hands-on IT professional with a strong foundation across support, networking, and security.
 
-Five industry certifications earned — CCNA, AWS Cloud Practitioner, ISC² CC, Google Cybersecurity, and IBM Data Science.
+Five industry certifications earned CCNA, AWS Cloud Practitioner, ISC² CC, Google Cybersecurity, and IBM Data Science.
 
 Five portfolio projects built in real lab environments and documented for production readiness.
 
@@ -39,7 +39,7 @@ Available for roles in Canada and remote positions globally.
 
 ---
 
-## PROJECT 01 — M365 Developer Tenant — Full Admin Configuration
+## PROJECT 01 : M365 Developer Tenant Full Admin Configuration
 
 **GitHub:**  
 [https://github.com/rachata072/m365-admin-lab](https://github.com/rachata072/m365-admin-lab.git)
@@ -63,7 +63,7 @@ Demonstrates real cloud admin capability across the full M365 stack.
 
 ---
 
-## PROJECT 02 — Active Directory Home Lab — Windows Server 2022 + GPO
+## PROJECT 02 : Active Directory Home Lab Windows Server 2022 + GPO
 
 **GitHub:**  
 https://github.com/rachata072/active-directory-home-lab
@@ -91,7 +91,7 @@ Includes:
 
 ---
 
-## PROJECT 03 — Freshservice ITSM — 20-Ticket Helpdesk Simulation
+## PROJECT 03 : Freshservice ITSM 20-Ticket Helpdesk Simulation
 
 **GitHub:**  
 https://github.com/rachata072/freshservice-itsm-lab
@@ -117,7 +117,7 @@ Created and resolved 20 realistic helpdesk tickets including:
 
 ---
 
-## PROJECT 04 — Wireshark — Protocol Capture & Network Analysis
+## PROJECT 04 : Wireshark Protocol Capture & Network Analysis
 
 **GitHub:**  
 https://github.com/rachata072/wireshark-network-analysis
@@ -141,7 +141,7 @@ Each capture ships as a `.pcap` file with written analysis explaining protocol b
 
 ---
 
-## PROJECT 05 — IT Runbook — 5 Standard Operating Procedures
+## PROJECT 05 : IT Runbook 5 Standard Operating Procedures
 
 **GitHub:**  
 https://github.com/rachata072/it-runbook-sops
@@ -204,4 +204,4 @@ treyrct858@gmail.com
 IT Support · Network Engineer · SOC Analyst  
 Hosted on GitHub Pages
 
-Canada relocation · Remote global
+Canada · Remote global
